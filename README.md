@@ -30,6 +30,7 @@ Postman • Swagger
 🐍 Python + Pandas (Jupyter Notebook)
 
 ---
+
 ## 📂 Мои репозитории и портфолио
 
 Ниже собраны мои практические работы по трём ключевым направлениям. Кликайте на карточки, чтобы перейти в репозиторий:
@@ -49,6 +50,7 @@ Postman • Swagger
   </a>
 
 </div>
+
 ### 📌 Ключевые проекты внутри репозиториев:
 
 * ⚙️ **[System Analysis](https://github.com/saponikk06/Practicum-System-Analysis_projects)**: 
