@@ -19,27 +19,48 @@
 
 ## 🛠 Технологический стек
 
-**Анализ и проектирование**  
-📝 BPMN 2.0 • UML • ER • DFD  
+**Анализ и проектирование** 📝 BPMN 2.0 • UML • ER • DFD  
 SRS • Use Cases • User Stories  
 Jira • Confluence • Figma • Draw.io • Miro
 
-**API и интеграции**  
-🔌 REST API (JSON, XSD)  
+**API и интеграции** 🔌 REST API (JSON, XSD)  
 Postman • Swagger
 
-**Работа с данными**  
-🗄️ SQL (сложные запросы)  
+**Работа с данными** 🗄️ SQL (сложные запросы)  
 🐍 Python + Pandas (Jupyter Notebook)
 
 ---
 
-## 📁 Ключевые проекты
+## 📂 Мои репозитории и портфолио
 
-- 🏠 **Smart Home** - архитектура MVP и модель данных «Stets Home»
-- 🎓 **EdTech** - SRS + интеграции «Chatty 2.0»
-- 🛒 **E-commerce** - бизнес-правила платежей «Накарабине»
-- 🎬 **Streaming** - REST API и ТЗ на микросервисы «Otium»
+Ниже собраны мои практические работы по трем ключевым направлениям. Кликайте на карточки, чтобы перейти в репозиторий:
+
+<p align="center">
+  <a href="https://github.com/saponikk06/Practicum-System-Analysis_projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saponikk06&repo=Practicum-System-Analysis_projects&theme=radical" width="48%" />
+  </a>
+  <a href="https://github.com/saponikk06/Business-Analysis-Cases">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saponikk06&repo=Business-Analysis-Cases&theme=radical" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/saponikk06/Data-Analysis-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saponikk06&repo=Data-Analysis-Portfolio&theme=radical" width="48%" />
+  </a>
+</p>
+
+### 📌 Ключевые проекты внутри репозиториев:
+
+* ⚙️ **[System Analysis](https://github.com/saponikk06/Practicum-System-Analysis_projects)**: 
+    * 🏠 **Smart Home** — архитектура MVP и модель данных «Stets Home».
+    * 🎓 **EdTech** — SRS + интеграции «Chatty 2.0».
+    * 🛒 **E-commerce** — бизнес-правила платежей «Накарабине».
+    * 🎬 **Streaming** — REST API и ТЗ на микросервисы «Otium».
+* 💼 **[Business Analysis](https://github.com/saponikk06/Business-Analysis-Cases)**: 
+    * Концепция и BPMN-схема приложения «Т-Спорт».
+    * Финансовое моделирование и анализ метрик для монетизации VK Video.
+* 📊 **[Data Analysis](https://github.com/saponikk06/Data-Analysis-Portfolio)**: 
+    * Скрипты и тетрадки (Jupyter Notebook) с проверкой гипотез, обработкой массивов данных и SQL-запросами.
 
 ---
 
