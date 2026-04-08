@@ -30,24 +30,41 @@ Postman • Swagger
 🐍 Python + Pandas (Jupyter Notebook)
 
 ---
+## 📂 Мои репозитории и портфолио
+
+Ниже собраны мои практические работы по трём ключевым направлениям. Кликайте на карточки, чтобы перейти в репозиторий:
 
 ## 📂 Мои репозитории и портфолио
 
-Ниже собраны мои практические работы по трем ключевым направлениям. Кликайте на карточки, чтобы перейти в репозиторий:
+Ниже собраны мои практические работы по трём ключевым направлениям. Кликайте на карточки, чтобы перейти в репозиторий:
+
+## 📂 Мои репозитории и портфолио
+
+Ниже собраны мои практические работы по трём ключевым направлениям. Кликайте на карточки, чтобы перейти в репозиторий:
 
 <p align="center">
-  <a href="https://github.com/saponikk06/Practicum-System-Analysis_projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saponikk06&repo=Practicum-System-Analysis_projects&theme=radical" width="48%" />
+  <a href="https://github.com/saponikk06/Practicum-System-Analysis_projects" style="text-decoration: none;">
+    <img src="./assets/system.jpg" 
+         alt="Системный анализ" 
+         width="280" 
+         style="border-radius: 20px; margin: 12px; height: 190px; object-fit: cover; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
   </a>
-  <a href="https://github.com/saponikk06/Business-Analysis-Cases">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saponikk06&repo=Business-Analysis-Cases&theme=radical" width="48%" />
+  
+  <a href="https://github.com/saponikk06/Business-Analysis-Cases" style="text-decoration: none;">
+    <img src="./assets/BA.jpg" 
+         alt="Бизнес-анализ" 
+         width="280" 
+         style="border-radius: 20px; margin: 12px; height: 190px; object-fit: cover; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
+  </a>
+  
+  <a href="https://github.com/saponikk06/Data-Analysis-Portfolio" style="text-decoration: none;">
+    <img src="./assets/data.jpg" 
+         alt="Анализ данных" 
+         width="280" 
+         style="border-radius: 20px; margin: 12px; height: 190px; object-fit: cover; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/saponikk06/Data-Analysis-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saponikk06&repo=Data-Analysis-Portfolio&theme=radical" width="48%" />
-  </a>
-</p>
+
 
 ### 📌 Ключевые проекты внутри репозиториев:
 
