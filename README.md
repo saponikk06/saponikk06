@@ -34,29 +34,21 @@ Postman • Swagger
 
 Ниже собраны мои практические работы по трём ключевым направлениям. Кликайте на карточки, чтобы перейти в репозиторий:
 
-<p align="center">
-  <a href="https://github.com/saponikk06/Practicum-System-Analysis_projects" style="text-decoration: none; margin: 0 10px;">
-    <img src="./assets/Sa.png"
-         alt="System analysis"
-         width="280"
-         style="border-radius: 20px; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
-  </a>
-  
-  <a href="https://github.com/saponikk06/Business-Analysis-Cases" style="text-decoration: none; margin: 0 10px;">
-    <img src="./assets/Ba.png"
-         alt="Business analysis"
-         width="280"
-         style="border-radius: 20px; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
-  </a>
-  
-  <a href="https://github.com/saponikk06/Data-Analysis-Portfolio" style="text-decoration: none; margin: 0 10px;">
-    <img src="./assets/Da.png"
-         alt="Data analysis"
-         width="280"
-         style="border-radius: 20px; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
-  </a>
-</p>
+<div align="center">
 
+  <a href="https://github.com/saponikk06/Practicum-System-Analysis_projects" style="text-decoration:none; margin: 8px;">
+    <img src="./assets/Sa.png" width="280" style="border-radius:20px; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
+  </a>
+  
+  <a href="https://github.com/saponikk06/Business-Analysis-Cases" style="text-decoration:none; margin: 8px;">
+    <img src="./assets/Ba.png" width="280" style="border-radius:20px; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
+  </a>
+  
+  <a href="https://github.com/saponikk06/Data-Analysis-Portfolio" style="text-decoration:none; margin: 8px;">
+    <img src="./assets/Da.png" width="280" style="border-radius:20px; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
+  </a>
+
+</div>
 ### 📌 Ключевые проекты внутри репозиториев:
 
 * ⚙️ **[System Analysis](https://github.com/saponikk06/Practicum-System-Analysis_projects)**: 
