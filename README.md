@@ -37,21 +37,21 @@ Postman • Swagger
 
 <p align="center">
   <a href="https://github.com/saponikk06/Practicum-System-Analysis_projects" style="text-decoration: none;">
-    <img src="./assets/system.jpg" 
+    <img src="./assets/Sa.png" 
          alt="Системный анализ" 
          width="280" 
          style="border-radius: 20px; margin: 12px; height: 190px; object-fit: cover; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
   </a>
   
   <a href="https://github.com/saponikk06/Business-Analysis-Cases" style="text-decoration: none;">
-    <img src="./assets/BA.jpg" 
+    <img src="./assets/Ba.png" 
          alt="Бизнес-анализ" 
          width="280" 
          style="border-radius: 20px; margin: 12px; height: 190px; object-fit: cover; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
   </a>
   
   <a href="https://github.com/saponikk06/Data-Analysis-Portfolio" style="text-decoration: none;">
-    <img src="./assets/data.jpg" 
+    <img src="./assets/Da.png" 
          alt="Анализ данных" 
          width="280" 
          style="border-radius: 20px; margin: 12px; height: 190px; object-fit: cover; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
