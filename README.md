@@ -30,34 +30,40 @@ Postman • Swagger
 🐍 Python + Pandas (Jupyter Notebook)
 
 ---
-
 ## 📂 Мои репозитории и портфолио
 
 Ниже собраны мои практические работы по трём ключевым направлениям. Кликайте на карточки, чтобы перейти в репозиторий:
 
-<p align="center">
-  <a href="https://github.com/saponikk06/Practicum-System-Analysis_projects" style="text-decoration: none;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+  
+  <a href="https://github.com/saponikk06/Practicum-System-Analysis_projects" style="text-decoration: none; flex: 1 1 300px; max-width: 320px;">
     <img src="./assets/Sa.png" 
-         alt="Системный анализ" 
-         width="280" 
-         style="border-radius: 20px; margin: 12px; height: 190px; object-fit: cover; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
+         alt="System analysis" 
+         style="width: 100%; height: 190px; object-fit: cover; border-radius: 20px; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
+    <p style="text-align: center; margin-top: 12px; font-size: 1.1em; color: #c9c9c9;">
+      <strong>System analysis</strong>
+    </p>
   </a>
-  
-  <a href="https://github.com/saponikk06/Business-Analysis-Cases" style="text-decoration: none;">
-    <img src="./assets/Ba.png" 
-         alt="Бизнес-анализ" 
-         width="280" 
-         style="border-radius: 20px; margin: 12px; height: 190px; object-fit: cover; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
-  </a>
-  
-  <a href="https://github.com/saponikk06/Data-Analysis-Portfolio" style="text-decoration: none;">
-    <img src="./assets/Da.png" 
-         alt="Анализ данных" 
-         width="280" 
-         style="border-radius: 20px; margin: 12px; height: 190px; object-fit: cover; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
-  </a>
-</p>
 
+  <a href="https://github.com/saponikk06/Business-Analysis-Cases" style="text-decoration: none; flex: 1 1 300px; max-width: 320px;">
+    <img src="./assets/Ba.png" 
+         alt="Business analysis" 
+         style="width: 100%; height: 190px; object-fit: cover; border-radius: 20px; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
+    <p style="text-align: center; margin-top: 12px; font-size: 1.1em; color: #c9c9c9;">
+      <strong>Business analysis</strong>
+    </p>
+  </a>
+
+  <a href="https://github.com/saponikk06/Data-Analysis-Portfolio" style="text-decoration: none; flex: 1 1 300px; max-width: 320px;">
+    <img src="./assets/Da.png" 
+         alt="Data analysis" 
+         style="width: 100%; height: 190px; object-fit: cover; border-radius: 20px; box-shadow: 0 6px 15px rgba(0,0,0,0.35);">
+    <p style="text-align: center; margin-top: 12px; font-size: 1.1em; color: #c9c9c9;">
+      <strong>Data analysis</strong>
+    </p>
+  </a>
+
+</div>
 
 ### 📌 Ключевые проекты внутри репозиториев:
 
