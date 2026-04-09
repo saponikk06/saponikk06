@@ -58,9 +58,6 @@ Postman • Swagger
     * 🎓 **EdTech** — SRS + интеграции «Chatty 2.0».
     * 🛒 **E-commerce** — бизнес-правила платежей «Накарабине».
     * 🎬 **Streaming** — REST API и ТЗ на микросервисы «Otium».
-* 💼 **[Business Analysis](https://github.com/saponikk06/Business-Analysis-Cases)**: 
-    * Концепция и BPMN-схема приложения «Т-Спорт».
-    * Финансовое моделирование и анализ метрик для монетизации VK Video.
 * 📊 **[Data Analysis](https://github.com/saponikk06/Data-Analysis-Portfolio)**: 
     * Скрипты и тетрадки (Jupyter Notebook) с проверкой гипотез, обработкой массивов данных и SQL-запросами.
 
