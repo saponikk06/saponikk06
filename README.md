@@ -60,6 +60,9 @@ Postman • Swagger
     * 🎬 **Streaming** — REST API и ТЗ на микросервисы «Otium».
 * 📊 **[Data Analysis](https://github.com/saponikk06/Data-Analysis-Portfolio)**: 
     * Скрипты и тетрадки (Jupyter Notebook) с проверкой гипотез, обработкой массивов данных и SQL-запросами.
+* 💼 **[Business Analysis](https://github.com/saponikk06/Business-Analysis-Cases)**: 
+    * Концепция и BPMN-схема приложения «Т-Спорт».
+    * Финансовое моделирование и анализ метрик для монетизации VK Video.
 
 ---
 
